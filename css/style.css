@@ -16,3 +16,19 @@ header .logo {
   width: 200px;
 
 }
+
+#subtitle {
+  color: #8D8D8D;
+}
+
+section#start .subtitle {
+  color: #8D8D8D;
+}
+
+section#start .subtitle .name {
+  color: #3D97B8;
+}
+
+section#start .subtitle .date {
+  color: #3D97B8;
+}
