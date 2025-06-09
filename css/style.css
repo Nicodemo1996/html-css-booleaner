@@ -30,5 +30,6 @@ section#start .subtitle .name {
 }
 
 section#start .subtitle .date {
+  font-size: 80%;
   color: #3D97B8;
 }
