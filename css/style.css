@@ -33,3 +33,7 @@ section#start .subtitle .date {
   font-size: 80%;
   color: #3D97B8;
 }
+
+.underlined {
+  background-color: yellow;
+}
