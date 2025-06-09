@@ -1,9 +1,18 @@
 header {
-  background-color: #459EFA;
+
+  padding-top: 40px;
   padding-left: 20px;
-  padding-top: 2pc;
+  background-color: #459EFA;
+  background-image: url(../img/pattern.png);
+  block-size: 30%;
+}
+
+main,
+footer {
+  padding: 30px;
 }
 
 header .logo {
   width: 200px;
+
 }
