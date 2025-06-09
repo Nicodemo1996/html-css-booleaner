@@ -1,0 +1,9 @@
+header {
+  background-color: #459EFA;
+  padding-left: 20px;
+  padding-top: 2pc;
+}
+
+header .logo {
+  width: 200px;
+}
