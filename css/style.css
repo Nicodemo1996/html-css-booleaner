@@ -1,4 +1,13 @@
+P,
+section {
+  padding-bottom: 20px;
+
+}
+
+
+
 header {
+
 
   padding-top: 40px;
   padding-left: 20px;
@@ -36,4 +45,13 @@ section#start .subtitle .date {
 
 .underlined {
   background-color: yellow;
+}
+
+ul {
+  margin-left: 20px;
+  padding: 0%;
+}
+
+section#table table thead {
+  background-color: #00A7DB;
 }
